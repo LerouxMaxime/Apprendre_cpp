@@ -1,0 +1,15 @@
+git init (creation du dépôt)
+
+git add Nom du fichier (ajouter le ou les fichiers à l'index)
+
+git rm - f Nom du fichier
+
+git commit -a -m "Mon message" -------------> Sauvegarde les fichiers indexés sur la machine locale.
+
+git status
+
+git push -u origin master. -------------> monte la sauvegarde sur GitHub.
+
+git pull -------------> descent la sauvegarde de GitHub.
+
+git clone -------------> descent la sauvegarde avec creation du répertoire sur la machine.
