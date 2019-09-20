@@ -9,6 +9,7 @@ SOURCES += \
         barrehexagonale.cpp \
         barrerectangle.cpp \
         barreronde.cpp \
+        barrerondecreuse.cpp \
         main.cpp
 
 HEADERS += \
@@ -16,4 +17,5 @@ HEADERS += \
     barrecarree.h \
     barrehexagonale.h \
     barrerectangle.h \
-    barreronde.h
+    barreronde.h \
+    barrerondecreuse.h
