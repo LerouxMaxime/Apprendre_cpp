@@ -1,0 +1,7 @@
+<map id="Barre" name="Barre">
+<area shape="rect" id="node2" href="$class_barre_carree.html" title="The BarreCarree class. " alt="" coords="5,189,140,296"/>
+<area shape="rect" id="node3" href="$class_barre_hexagonale.html" title="The BarreHexagonale class. " alt="" coords="164,189,307,296"/>
+<area shape="rect" id="node4" href="$class_barre_rectangle.html" title="The BarreRectangle class. " alt="" coords="331,197,465,289"/>
+<area shape="rect" id="node5" href="$class_barre_ronde.html" title="The BarreRonde class. " alt="" coords="489,197,624,289"/>
+<area shape="rect" id="node6" href="$class_barre_ronde_creuse.html" title="The BarreRondeCreuse class. " alt="" coords="469,344,645,480"/>
+</map>
